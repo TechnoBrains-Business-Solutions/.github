@@ -4,10 +4,10 @@ We are a team of 50+ design and development professionals who are passionate abo
 
 We are providing the following services:
 
-:point_right: **Web development**
-:point_right: **Mobile Development**
-:point_right: **Creative UI/UX designing**
-:point_right: **Enterprise-level Solutions**
+:point_right: **Web development** <br>
+:point_right: **Mobile Development** <br>
+:point_right: **Creative UI/UX designing** <br>
+:point_right: **Enterprise-level Solutions** <br>
 :point_right: **Cloud Solutions etc.**
 
 Please visit our website for more details: https://technobrains.io/
